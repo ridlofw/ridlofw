@@ -11,7 +11,9 @@
 
   <!-- Profile Visitor Counter -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=ridlofw&color=00FF66&style=flat-square&label=SYSTEM+VISITS" alt="Profile Views" />
+    <a href="https://github.com/ridlofw">
+      <img src="https://komarev.com/ghpvc/?username=ridlofw&color=00FF66&style=flat-square&label=SYSTEM+VISITS" alt="Profile Views" />
+    </a>
   </p>
 
 </div>
@@ -32,25 +34,13 @@
 
 <p align="center">
   <a href="https://github.com/ridlofw">
-    <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=ridlofw&show_icons=true&theme=matrix&hide_border=true&bg_color=00000000" alt="GitHub Stats" height="155" />
+    <img src="https://github-stats-extended.vercel.app/api?username=ridlofw&show_icons=true&theme=matrix&hide_border=true&bg_color=00000000&hide_rank=true&hide=stars,prs,issues" alt="GitHub Stats" height="150" />
   </a>
   &nbsp;
   <a href="https://github.com/ridlofw">
-    <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=ridlofw&layout=compact&theme=matrix&hide_border=true&bg_color=00000000" alt="Top Languages" height="155" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ridlofw&layout=compact&theme=matrix&hide_border=true&bg_color=00000000" alt="Top Languages" height="150" />
   </a>
 </p>
-
----
-
-### 🐍 Contribution Activity (Snake Game)
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ridlofw/ridlofw/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ridlofw/ridlofw/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/ridlofw/ridlofw/output/github-contribution-grid-snake-dark.svg" width="100%">
-  </picture>
-</div>
 
 ---
 
@@ -74,18 +64,14 @@
   </a>
 </p>
 
+---
+
+### 🐍 Contribution Activity (Snake Game)
+
 <div align="center">
-  <details>
-    <summary><b>⚡ cat system_info.json (Click to expand)</b></summary>
-    <br>
-    
-```json
-{
-  "developer": "Ridlo F.W.",
-  "role": "Full Stack Software Engineer",
-  "focus": ["Frontend Architecture", "Backend APIs", "Clean Code"],
-  "status": "Building cool projects & open to collaborations"
-}
-```
-  </details>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ridlofw/ridlofw/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ridlofw/ridlofw/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/ridlofw/ridlofw/output/github-contribution-grid-snake-dark.svg" width="100%">
+  </picture>
 </div>
