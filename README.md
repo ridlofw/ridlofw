@@ -66,7 +66,7 @@
 
 ---
 
-### 👾 Contribution Activity (Pac-Man)
+### 👾 Contribution Activity 
 
 <div align="center">
   <picture>
