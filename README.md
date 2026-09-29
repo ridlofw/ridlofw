@@ -12,7 +12,7 @@
   <!-- Profile Visitor Counter -->
   <p align="center">
     <a href="https://github.com/ridlofw">
-      <img src="https://komarev.com/ghpvc/?username=ridlofw&color=00FF66&style=flat-square&label=SYSTEM+VISITS" alt="Profile Views" />
+      <img src="https://komarev.com/ghpvc/?username=ridlofw&color=00FF66&style=flat&label=views" alt="Profile Views" />
     </a>
   </p>
 
@@ -23,7 +23,7 @@
 ### 🛠️ Tech Stack & Arsenal
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/ridlofw">
     <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css,nodejs,express,python,php,laravel,go,postgres,mysql,mongodb,docker,git,linux,postman,vscode&perline=11" alt="Tech Stack" />
   </a>
 </p>
@@ -66,7 +66,7 @@
 
 ---
 
-### 👾 Contribution Activity 
+### 👾 Contribution Activity
 
 <div align="center">
   <picture>
